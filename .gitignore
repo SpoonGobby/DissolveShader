@@ -1,0 +1,20 @@
+# Unreal generated folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+# IDE / local machine
+.vs/
+.vscode/
+.idea/
+# Visual Studio
+*.VC.db
+*.VC.opendb
+*.sln
+*.suo
+*.user
+*.userosscache
+# Build artifacts
+*.obj
+*.pdb
+*.ipch
